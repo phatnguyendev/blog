@@ -3,7 +3,7 @@ layout: post
 title: Take note with Cheerio
 subtitle: Note về cheerio trong NodeJS
 bigimg: /img/path.jpg
-googlefonts:["velhetica"]
+googlefonts: ["Helvetica"]
 tags: [cheerio, nodeJS]
 ---
 # Làm quen với Cheerio bằng crawler
