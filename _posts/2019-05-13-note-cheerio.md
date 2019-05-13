@@ -9,9 +9,9 @@ tags: [cheerio, nodeJS]
 Đây là note những lưu ý hay ho trong lúc sử dụng cheerio
 ## Tìm kiếm
 Sử dụng $(body).find("a.title") trong đó
->body: html source được lấy về
->a: tên tag 
->.title: truy cập đến class (# cho id)
+- body: html source được lấy về
+- a: tên tag 
+- .title: truy cập đến class (# cho id)
 
 ## Dùng vòng lặp
 Sử dụng .each(function(i,e) {
