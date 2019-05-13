@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Take note with Cheerio
+subtitle: Note về cheerio trong NodeJS
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
