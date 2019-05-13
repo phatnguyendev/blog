@@ -3,7 +3,7 @@ layout: post
 title: Take note with Cheerio
 subtitle: Note về cheerio trong NodeJS
 bigimg: /img/path.jpg
-tags: [books, test]
+tags: [cheerio, nodeJS]
 ---
 # Làm quen với Cheerio bằng crawler
 Đây là note những lưu ý hay ho trong lúc sử dụng cheerio
